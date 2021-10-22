@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/houge us god/title.unity
+    guid: 7b53067cb5695ea439e2afe83f5952e4
+  - enabled: 1
+    path: Assets/Scenes/houge us god/gmae.unity
+    guid: 56f97771207ba8c4585e98f48b32abd1
+  - enabled: 1
+    path: Assets/Scenes/houge us god/game over.unity
+    guid: 120a673a0f3235540b01284abb8214a4
+  m_configObjects: {}
